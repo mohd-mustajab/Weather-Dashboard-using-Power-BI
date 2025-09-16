@@ -1,3 +1,5 @@
+<img width="1203" height="676" alt="image" src="https://github.com/user-attachments/assets/aee3759b-822e-4fcd-a2fd-e8780ab5e681" />
+
 🌦️ Weather Dashboard (using Power BI)
 
 An interactive and visually appealing Weather Dashboard that displays real-time and forecasted weather conditions using the WeatherAPI
