@@ -59,7 +59,3 @@ Run the project to explore live weather conditions.
 🌎 Add support for global city search.
 
 📱 Build mobile-friendly UI.
-
-🔔 Weather alerts/notifications.
-
-Screenshot: https://github.com/mohd-mustajab/Weather-Dashboard-using-Power-BI/blob/main/Weather%20Dashboard%20Snapshot%20Power%20BI.png
