@@ -1,4 +1,5 @@
-<img width="1203" height="676" alt="image" src="https://github.com/user-attachments/assets/aee3759b-822e-4fcd-a2fd-e8780ab5e681" />
+<img width="1147" height="630" alt="image" src="https://github.com/user-attachments/assets/f1e838bd-6a4b-4e65-a4da-b093786396a0" />
+
 
 🌦️ Weather Dashboard (using Power BI)
 
